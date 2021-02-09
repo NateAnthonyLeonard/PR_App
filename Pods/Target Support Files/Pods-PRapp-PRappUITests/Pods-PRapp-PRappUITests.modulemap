@@ -1,0 +1,6 @@
+framework module Pods_PRapp_PRappUITests {
+  umbrella header "Pods-PRapp-PRappUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
