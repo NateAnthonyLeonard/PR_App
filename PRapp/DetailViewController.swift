@@ -8,6 +8,7 @@
 
 import UIKit
 
+//Review 
 class DetailTBCell: UITableViewCell {
     
     @IBOutlet weak var products: UILabel!
